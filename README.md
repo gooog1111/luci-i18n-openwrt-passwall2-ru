@@ -1,3 +1,7 @@
+[![Stars](https://img.shields.io/github/stars/gooog1111/luci-i18n-openwrt-passwall2-ru?style=for-the-badge)](https://github.com/gooog1111/luci-i18n-openwrt-passwall2-ru/stargazers)
+[![Latest Release](https://img.shields.io/github/v/release/gooog1111/luci-i18n-openwrt-passwall2-ru?style=for-the-badge)](https://github.com/gooog1111/luci-i18n-openwrt-passwall2-ru/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/gooog1111/luci-i18n-openwrt-passwall2-ru/total?style=for-the-badge)](https://github.com/gooog1111/luci-i18n-openwrt-passwall2-ru/releases)
+[![License](https://img.shields.io/github/license/gooog1111/luci-i18n-openwrt-passwall2-ru?style=for-the-badge)](LICENSE)
 # PassWall2 Русский перевод
 
 Полный русский перевод интерфейса PassWall2 - плагина для управления прокси-серверами в OpenWrt.
@@ -78,3 +82,14 @@ wget -O /usr/lib/lua/luci/i18n/passwall2.ru.lmo "https://github.com/gooog1111/lu
 ---
 
 **Примечание**: Этот перевод является community-driven проектом и не аффилирован официально с разработчиками PassWall2.
+
+## ⭐ Поддержка проекта
+
+Если вам понравился этот перевод, поставьте звезду репозиторию! Это помогает проекту развиваться.
+
+**Как поставить звезду:**
+1. Перейдите на [страницу репозитория](https://github.com/gooog1111/luci-i18n-openwrt-passwall2-ru)
+2. Нажмите кнопку "⭐ Star" в правом верхнем углу
+3. Готово! Спасибо за поддержку 👍
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gooog1111/luci-i18n-openwrt-passwall2-ru&type=Date&theme=dark)](https://star-history.com/#gooog1111/luci-i18n-openwrt-passwall2-ru&Date)
